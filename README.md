@@ -28,7 +28,7 @@ Download and install Oracle VirtualBox.
 <li>
 Download the ova file.
 <ul>
-<li>some link</li>
+<li>https://drive.google.com/file/d/18JuIMXLCRy77ZNhUFbNB_UswJvLUk0ro/view?usp=sharing</li>
 </ul>
   
 </li>
